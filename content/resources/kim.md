@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: kim.pdf
-type: OCWFile
 uid: 666e2d83-efc6-f2dc-c0fd-6c46f1e34e6d
 ---

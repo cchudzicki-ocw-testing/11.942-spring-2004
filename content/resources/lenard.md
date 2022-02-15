@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: lenard.pdf
-type: OCWFile
 uid: 833947d7-2b6d-4195-9101-146da0238a4e
 ---

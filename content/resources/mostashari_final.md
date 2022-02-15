@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: mostashari_final.pdf
-type: OCWFile
 uid: 3588ed64-7468-77ef-21fe-291f8d1ac848
 ---

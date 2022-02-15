@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: lenard_fsonfinal.pdf
-type: OCWFile
 uid: 997675e5-9cc8-0a12-39b9-64b238700c3d
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: glickel.pdf
-type: OCWFile
 uid: 1edd1f6d-0280-53ae-93e7-b40989219996
 ---

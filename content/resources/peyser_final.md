@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: peyser_final.pdf
-type: OCWFile
 uid: 476b8a93-bb53-5178-5cd9-56463fe66f0a
 ---

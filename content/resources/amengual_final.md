@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: amengual_final.pdf
-type: OCWFile
 uid: bbf61448-b76b-43c8-8998-38c5308ed459
 ---

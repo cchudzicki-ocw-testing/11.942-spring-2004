@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ashcraft.pdf
-type: OCWFile
 uid: 5dd2a74d-d749-2125-45a9-59d967ce0945
 ---

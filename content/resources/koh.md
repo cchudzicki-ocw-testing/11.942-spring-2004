@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: koh.pdf
-type: OCWFile
 uid: 49806423-f006-6603-f022-db1dbb04c388
 ---

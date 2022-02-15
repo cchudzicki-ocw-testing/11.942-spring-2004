@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: turner.pdf
-type: OCWFile
 uid: 68ddfaa2-4bb9-512f-d351-95adce917c4a
 ---

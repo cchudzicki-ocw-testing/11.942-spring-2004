@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ponce.pdf
-type: OCWFile
 uid: baac6947-cc30-18ed-f9c5-9153dc234a56
 ---

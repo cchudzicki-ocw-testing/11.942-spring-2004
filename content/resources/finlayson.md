@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: finlayson.pdf
-type: OCWFile
 uid: d0612a05-eab6-be1e-ea4a-1545d5142f14
 ---
