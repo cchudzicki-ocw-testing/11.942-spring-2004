@@ -14,7 +14,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Course Structure
 ----------------
 
-This is the second part of a one year seminar. The [calendar]({{< baseurl >}}/pages/calendar) section details the topics for each class meeting.
+This is the second part of a one year seminar. The {{< resource_link 99add553-81ac-13e8-810e-87573a77cbeb "calendar" >}} section details the topics for each class meeting.
 
 Course Goals
 ------------
