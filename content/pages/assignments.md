@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides student examples of presentations and game designs.
+  Students who took the fall seminar, 11.941, have the opportunity to present their
+  papers at a symposium at USGS headquarters. The role-play simulation may be published
+  as part of a joint USGS/MIT working paper series.
 draft: false
 learning_resource_types:
 - Assignments
