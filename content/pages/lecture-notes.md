@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes based on lectures given by guest
+  speakers.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
